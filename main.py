@@ -48,7 +48,7 @@ nasals_onset = [
 
 vowels = [ #Might be a bad idea, who knows
     "ɪ", "iː",           "ʊ", "uː",
-    "ɛ", "eː",                "oʊ",
+    "ɛ", "eɪ",                "oʊ",
     "æ",       "ʌ", "ɑ", 
 
             "aɪ", "ɔɪ", "aʊ", "ju",
